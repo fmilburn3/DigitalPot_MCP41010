@@ -1,4 +1,4 @@
 # DigitalPot_MCP41010
-  This example sketch controls a Microchip MCP41010 I/P digital potentiometer with a MSP-EXP430F5529LP over SPI.
+  Library and example to control a Microchip MCP41010  digital potentiometer with a MSP-EXP430F5529LP over SPI.
   
   See wiki for additional information.
